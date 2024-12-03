@@ -15,7 +15,7 @@ contract MessageBoard {
     }
 
     function postMessage(string memory content) public {
-        require(bytes(content).length > 0, "Message content cannot be empty");
+        require(bytes(content).length > 0, "Message  content cannot be empty");
 
         uint256 currentLength = messages.length;
         require(currentLength < type(uint256).max, "Too many messages"); // Safety check

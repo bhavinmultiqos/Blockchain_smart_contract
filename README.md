@@ -1,4 +1,4 @@
-# Blockchain Smart Contract Demo Application
+# Blockchain Smart Contract
 
 This is a simple blockchain-based demo application built with **Truffle** that allows users to send and retrieve messages on the Ethereum blockchain.
 

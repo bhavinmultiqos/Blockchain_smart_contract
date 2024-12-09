@@ -46,30 +46,6 @@ Install from MetaMask's website.
 Ganache - Local Ethereum blockchain for development.
 Install from Ganache's website.
 
-## Steps to run project
-
-Compile Smart Contracts:
-```bash
-truffle compile
-```
-
-#Migrate Contracts to Ganache:
-```bash
-truffle migrate --network development
-```
-
-Test Your Contracts:
-```bash
-truffle exec test/interact.js
-```
-
-
-
-
-
-
-
-
 ## Steps to Run the Project
 # Clone the Repository
 First, clone this repository to your local machine:\

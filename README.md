@@ -82,9 +82,9 @@ truffle exec test/interact.js
 1. Open MetaMask and select the network dropdown at the top.
 2. Choose "Custom RPC".
 3. Enter the following details:
-    Network Name: Ganache
-    New RPC URL: http://127.0.0.1:7545 (or use the URL provided by your Ganache instance)
-    Chain ID: 1337 (default for Ganache)
+    - Network Name: Ganache
+    - New RPC URL: http://127.0.0.1:7545 (or use the URL provided by your Ganache instance)
+    - Chain ID: 1337 (default for Ganache)
 4. Save and switch to the Ganache network.
 
 ## Notes

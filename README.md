@@ -19,15 +19,16 @@ The project utilizes the following technologies:
 # Prerequisites
 Before running the project, ensure you have the following tools installed:
 
-MetaMask browser extension - For connecting to the Ethereum blockchain.
+**MetaMask browser extension** - For connecting to the Ethereum blockchain.
 Install from MetaMask's website.
 
-Ganache - Local Ethereum blockchain for development.
+**Ganache** - Local Ethereum blockchain for development.
 Install from Ganache's website.
 
-1. **Truffle** (v5 or higher):
+**Truffle** (v5 or higher):
    ```bash
    npm install -g truffle
+```
   
 # Technology stack
 The following technologies were used in this project:

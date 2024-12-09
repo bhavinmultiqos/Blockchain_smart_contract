@@ -46,10 +46,10 @@ Install from Ganache's website.
 ```bash
 truffle compile
 
-Migrate Contracts to Ganache:
+#Migrate Contracts to Ganache:
 ```bash
 truffle migrate --network development
 
-*Test Your Contracts
+Test Your Contracts:
 ```bash
 truffle exec test/interact.js

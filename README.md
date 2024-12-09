@@ -2,13 +2,13 @@
 
 This is a simple blockchain-based demo application built with **Truffle** that allows users to send and retrieve messages on the Ethereum blockchain.
 
-## Features
+# Features
 - Deploys a smart contract to a blockchain network.
 - Enables users to:
   - Send a message.
   - Retrieve stored messages from the blockchain.
 
-## Technology Stack
+# Technology Stack
 The project utilizes the following technologies:
 
 1. **Truffle**: A development framework for Ethereum-based dApps, used for compiling, deploying, and testing smart contracts.
@@ -16,21 +16,21 @@ The project utilizes the following technologies:
 3. **Node.js**: A JavaScript runtime for building scalable network applications. It is used to run the development server and manage dependencies.
 4. **Ganache**: A local Ethereum blockchain for testing and development, used for deploying smart contracts and simulating transactions.
 
-## Prerequisites
+# Prerequisites
 Before running the project, ensure you have the following tools installed:
 
 1. **Truffle** (v5 or higher):
    ```bash
    npm install -g truffle
   
-## Technology stack
+# Technology stack
 The following technologies were used in this project:
 
 - MetaMask: A browser extension that allows users to manage their Ethereum wallet and interact with decentralized applications (dApps) directly from the browser.
 - Node.js: JavaScript runtime for building scalable network applications. It’s used to run the development server and handle dependencies.
 - Ganache: Personal blockchain for Ethereum development used for local testing. You can use Ganache to deploy contracts and test transactions on a local network.
 
-## Install globally by running:
+# Install globally by running:
 
 MetaMask browser extension - For connecting to the Ethereum blockchain.
 Install from MetaMask's website.

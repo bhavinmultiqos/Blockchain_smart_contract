@@ -42,7 +42,7 @@ Install from Ganache's website.
 
 #Run Your Project
 
-#Compile Smart Contracts:
+Compile Smart Contracts:
 ```bash
 truffle compile
 

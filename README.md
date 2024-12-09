@@ -30,13 +30,6 @@ The following technologies were used in this project:
 - Node.js: JavaScript runtime for building scalable network applications. It’s used to run the development server and handle dependencies.
 - Ganache: Personal blockchain for Ethereum development used for local testing. You can use Ganache to deploy contracts and test transactions on a local network.
 
-
-## Prerequisites
-Before you begin, ensure that you have the following installed:
-
-Node.js (version 16.x or higher) - For running the Angular development server.
-Download from Node.js official website
-
 ## Install globally by running:
 
 MetaMask browser extension - For connecting to the Ethereum blockchain.

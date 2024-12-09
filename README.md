@@ -88,8 +88,8 @@ truffle exec test/interact.js
 4. Save and switch to the Ganache network.
 
 ## Notes
-Ensure your Ganache blockchain is running before deploying the contracts.
-Make sure MetaMask is connected to the Ganache local blockchain.
+  - Ensure your Ganache blockchain is running before deploying the contracts.
+  - Make sure MetaMask is connected to the Ganache local blockchain.
 
 
 

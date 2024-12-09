@@ -45,11 +45,14 @@ Install from Ganache's website.
 Compile Smart Contracts:
 ```bash
 truffle compile
+```
 
 #Migrate Contracts to Ganache:
 ```bash
 truffle migrate --network development
+```
 
 Test Your Contracts:
 ```bash
 truffle exec test/interact.js
+```

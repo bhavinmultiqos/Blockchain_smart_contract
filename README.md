@@ -30,6 +30,16 @@ Install from Ganache's website.
    npm install -g truffle
 ```
 # Steps to Run the Project
+## connect MetaMask to the local Ganache blockchain:
+
+1. Open MetaMask and select the network dropdown at the top.
+2. Choose "Custom RPC".
+3. Enter the following details:
+    - Network Name: Ganache
+    - New RPC URL: http://127.0.0.1:7545 (or use the URL provided by your Ganache instance)
+    - Chain ID: 1337 (default for Ganache)
+4. Save and switch to the Ganache network.
+
 ## Clone the Repository
 First, clone this repository to your local machine:\
 ```bash
@@ -59,20 +69,9 @@ Interact with the deployed contracts by running the test script:
 truffle exec test/interact.js
 ```
 
-# Connecting MetaMask to Ganache
-## To connect MetaMask to the local Ganache blockchain:
-
-1. Open MetaMask and select the network dropdown at the top.
-2. Choose "Custom RPC".
-3. Enter the following details:
-    - Network Name: Ganache
-    - New RPC URL: http://127.0.0.1:7545 (or use the URL provided by your Ganache instance)
-    - Chain ID: 1337 (default for Ganache)
-4. Save and switch to the Ganache network.
-
-# Notes
-  - Ensure your Ganache blockchain is running before deploying the contracts.
-  - Make sure MetaMask is connected to the Ganache local blockchain.
+## Troubleshooting
+**  MetaMask Not Connecting: Ensure that MetaMask is properly configured and connected to the correct network (Ganache or another Ethereum network).
+** Transaction Fails: Check if the account has sufficient ETH in Ganache or MetaMask for the transaction.
 
 
 

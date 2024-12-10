@@ -38,7 +38,7 @@ Install from Ganache's website.
     - Network Name
     - New RPC URL
     - Chain ID
-4. Save and switch to the Ganache network.
+4. Save and switch to the local network.
 
 ### Clone the Repository
 First, clone this repository to your local machine:\

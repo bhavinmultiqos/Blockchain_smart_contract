@@ -93,7 +93,8 @@ Contributions are welcome! Please fork the repository and create a pull request 
 For more details, visit [MultiQoS](https://multiqos.com/).
 
 
-> **"Ottimizza la tua strategia di comunicazione con la tecnologia blockchain"**
+> ***"Optimize your communication strategy with blockchain technology"***
+
 
 
 

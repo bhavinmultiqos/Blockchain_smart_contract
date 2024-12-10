@@ -70,8 +70,8 @@ truffle exec test/interact.js
 ```
 
 ## Troubleshooting
-**  MetaMask Not Connecting: Ensure that MetaMask is properly configured and connected to the correct network (Ganache or another Ethereum network).
-** Transaction Fails: Check if the account has sufficient ETH in Ganache or MetaMask for the transaction.
+* MetaMask Not Connecting: Ensure that MetaMask is properly configured and connected to the correct network (Ganache or another Ethereum network).
+* Transaction Fails: Check if the account has sufficient ETH in Ganache or MetaMask for the transaction.
 
 
 

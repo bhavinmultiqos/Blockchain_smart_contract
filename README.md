@@ -44,7 +44,7 @@ Install from Ganache's website.
 First, clone this repository to your local machine:\
 ```bash
 git clone https://github.com/bhavinmultiqos/blockchain-message-chain.git
-cd Blockchain_smart_contract
+cd blockchain-message-chain
 ```
 ### Install Project Dependencies
 Install all necessary dependencies:

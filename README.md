@@ -69,9 +69,16 @@ Interact with the deployed contracts by running the test script:
 truffle exec test/interact.js
 ```
 
-## Troubleshooting
+# Troubleshooting
 * MetaMask Not Connecting: Ensure that MetaMask is properly configured and connected to the correct network (Ganache or another Ethereum network).
 * Transaction Fails: Check if the account has sufficient ETH in Ganache or MetaMask for the transaction.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+## Let Us know
+For more details, visit [MultiQoS](https://multiqos.com/).
 
 
 

@@ -35,9 +35,9 @@ Install from Ganache's website.
 1. Open MetaMask and select the network dropdown at the top.
 2. Choose "Custom RPC".
 3. Enter the following details:
-    - Network Name: Ganache
-    - New RPC URL: http://127.0.0.1:7545 (or use the URL provided by your Ganache instance)
-    - Chain ID: 1337 (default for Ganache)
+    - Network Name
+    - New RPC URL
+    - Chain ID
 4. Save and switch to the Ganache network.
 
 ## Clone the Repository

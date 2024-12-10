@@ -29,15 +29,6 @@ Install from Ganache's website.
    ```bash
    npm install -g truffle
 ```
-  
-# Technology stack
-The following technologies were used in this project:
-
-- MetaMask: A browser extension that allows users to manage their Ethereum wallet and interact with decentralized applications (dApps) directly from the browser.
-- Node.js: JavaScript runtime for building scalable network applications. It’s used to run the development server and handle dependencies.
-- Ganache: Personal blockchain for Ethereum development used for local testing. You can use Ganache to deploy contracts and test transactions on a local network.
-
-
 # Steps to Run the Project
 ## Clone the Repository
 First, clone this repository to your local machine:\

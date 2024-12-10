@@ -73,6 +73,16 @@ truffle exec test/interact.js
 * MetaMask Not Connecting: Ensure that MetaMask is properly configured and connected to the correct network (Ganache or another Ethereum network).
 * Transaction Fails: Check if the account has sufficient ETH in Ganache or MetaMask for the transaction.
 
+## OUTPUT
+```bash
+MessageBoard contract deployed at: 0x0B087AB27Abd356f79F3F15BBBD964c844B7251D
+Posting message: "Hello, Blockchain!"
+Message posted successfully!
+Retrieved Messages:
+Message 1: Hello, Blockchain! (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
+Total number of messages: 1
+```
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.

@@ -43,7 +43,7 @@ Install from Ganache's website.
 ### Clone the Repository
 First, clone this repository to your local machine:\
 ```bash
-https://github.com/bhavinmultiqos/Blockchain_smart_contract.git
+git clone https://github.com/bhavinmultiqos/Blockchain_smart_contract.git
 cd Blockchain_smart_contract
 ```
 ### Install Project Dependencies

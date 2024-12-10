@@ -30,7 +30,7 @@ Install from Ganache's website.
    npm install -g truffle
 ```
 ## Steps to Run the Project
-### connect MetaMask to the local Ganache blockchain:
+### Connect MetaMask to the local Ganache blockchain:
 
 1. Open MetaMask and select the network dropdown at the top.
 2. Choose "Custom RPC".
@@ -75,12 +75,14 @@ truffle exec test/interact.js
 
 ## OUTPUT
 ```bash
-MessageBoard contract deployed at: 0x0B087AB27Abd356f79F3F15BBBD964c844B7251D
-Posting message: "Hello, Blockchain!"
+MessageBoard contract deployed at: 0x6D96AF3B01e42Df2fF81D2e3F494ac063C2B52fB
+Posting message: "I'm A Blockchain Developer At MultiQoS :) "
 Message posted successfully!
 Retrieved Messages:
-Message 1: Hello, Blockchain! (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
-Total number of messages: 1
+Message 1: Hello, Blockchain...! (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
+Message 2: I'm Rahul Gohil (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
+Message 3: I'm A Blockchain Developer At MultiQoS :)  (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
+Total number of messages: 3
 ```
 
 ## Contributing

@@ -80,7 +80,7 @@ Posting message: "I'm A Blockchain Developer At MultiQoS :) "
 Message posted successfully!
 Retrieved Messages:
 Message 1: "Hello, Blockchain...!" (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
-Message 2: "I'm Rahul Gohil" (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
+Message 2: "I'm Developer" (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
 Message 3: "I'm A Blockchain Developer At MultiQoS :)"  (Sent by: 0xE6a56c023D79346595B708672eB5eDC10F71925d)
 Total number of messages: 3
 ```
